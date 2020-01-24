@@ -1,5 +1,5 @@
 {
-    "name": "phuxtil/flysystem-ssh-shell",
+    "name": "sbrow/flysystem-ssh-shell",
     "description": "SSH/Shell adapter for league/flysystem",
     "type": "library",
     "license": "MIT",
