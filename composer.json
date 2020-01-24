@@ -8,7 +8,7 @@
     "require": {
         "php": "^7",
         "league/flysystem": "^1.0",
-        "symfony/process": "^3",
+        "symfony/process": "^4",
         "phuxtil/find": "^1",
         "phuxtil/stat": "^1"
     },
